@@ -1,8 +1,8 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'frontend-ionic',
+  appId: 'com.licoreriajunin.currinchero',
+  appName: 'Licorería Junín Currinchero',
   webDir: 'www'
 };
 

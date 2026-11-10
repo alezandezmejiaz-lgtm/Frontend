@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Licorería Junín Currinchero</string>
+    <string name="title_activity_main">Licorería Junín Currinchero</string>
+    <string name="package_name">com.licoreriajunin.currinchero</string>
+    <string name="custom_url_scheme">com.licoreriajunin.currinchero</string>
+</resources>
